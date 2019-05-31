@@ -1,0 +1,28 @@
+All answers written by Jacob Elliott. 0835468 
+
+P1
+The function is called P1.
+
+P2
+The function is called P2.
+
+P3
+The function is called P3.
+
+P4
+The function is called P4.
+Will not print out "no transaction" when there is no transaction associated with a specific customer.
+
+P5
+The function is called P5.
+
+P6
+The function is called P6.
+
+P7
+The function is called P7.
+
+P8
+The function is called P8.
+
+I used foreign keys so you cannot enter a transaction that references a vendor that does not exist and you cannot enter a transaction that references an account that does not exist. 
